@@ -27,7 +27,7 @@ I am a Scientist-B at Fare Labs Pvt Ltd, where I manage operational workflows, c
 
 | # | Project | Domain | Tools | Status |
 |---|---------|--------|-------|--------|
-| 1 | [Retail Revenue Leakage & Retention Analysis](https://github.com/himanshi-saxena/retail-revenue-leakage-analysis) | Retail / E-commerce | Excel, SQL Server, Power BI | 🚧 In Progress (Excel and SQL done) |
+| 1 | [Retail Revenue Leakage & Retention Analysis](https://github.com/himanshi-saxena/retail-revenue-leakage-analysis) | Retail / E-commerce | Excel, SQL Server, Power BI | ✅ Complete |
 | 2 | *Employee Attrition & Retention Analytics* | HR | Excel, SQL, Power BI | 🚧 In Progress |
 | 3 | *Testing Turnaround Time & SLA Breach Prediction* | QA / Testing | Excel, SQL, Power BI | 🚧 In Progress |
 | 4 | *Branch / ATM Cash Demand Forecasting* | Banking / Finance | Excel, SQL, Tableau | 🚧 In Progress |

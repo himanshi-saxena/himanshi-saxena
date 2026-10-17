@@ -20,7 +20,7 @@ I am a Scientist-B at Fare Labs Pvt Ltd, where I manage operational workflows, c
 |------|-------|
 | Spreadsheets | Advanced Excel (formulas, pivot tables, dashboards) |
 | Databases | SQL (querying, joins, aggregations) |
-| Visualization | Power BI, Tableau |
+| Visualization | Power BI |
 | Programming | Python (in progress: data cleaning and analysis) |
 
 ## 📊 End-to-End Projects
